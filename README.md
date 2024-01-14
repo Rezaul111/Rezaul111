@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm SM Rezaul Karim</h1>
 <h3 align="center">To excel in the field of information technology and software development, applying my technical and logical knowledge, creativity, and interpersonal skills. I am seeking a position that allows me to contribute consistently, participate in initiatives with responsibility and challenge, and leverage my dedication to achieving goals. With a strong proficiency in [PHP, Laravel, CodeIgniter, HTML, CSS, Bootstrap, Javascript & Ajax], coupled with hands-on experience in web development, I am poised to deliver innovative solutions and contribute to the success of the team. I am enthusiastic about staying abreast of industry trends and embracing new challenges that foster professional growth.</h3>
 
